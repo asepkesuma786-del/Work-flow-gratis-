@@ -1,0 +1,6 @@
+{
+  "name": "FluxAuto Video Console",
+  "description": "An immersive, high-fidelity automated video content generation and publishing pipeline controller powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
